@@ -23,4 +23,7 @@ https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
 https://github.com/tensorflow/models/blob/master/research/object_detection/README.md
 https://github.com/wenqingchu/ssd/tree/ssd/examples
 
+- RCNN- good for small objects - could be a helpful way for checking conus from a distance
+https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/
+
 
