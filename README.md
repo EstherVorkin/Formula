@@ -1,4 +1,7 @@
 # Formula
-# Team Perception
 
-# Object detecting
+Team Perception
+Object detecting Algo:
+- 
+- 
+- 
